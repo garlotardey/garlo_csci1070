@@ -11,5 +11,4 @@
     "alernative: selling price, km_driven, seller_type and owner, wont change the price of the car from selling price.
     
     # 4
-    multivariate regression for predicting price with columns like selling price, kilometers driven, and year. another modle i will use is random samplbing becasue i cna use it to split and test the data and cross validate it to evaluate my models performance. using this and multiple linear regression will help make the model run better and make my project better.
-  
+    multivariate regression for predicting price with columns like selling price, kilometers driven, and year. another modle i will use is decion trees, becasue it will work well wih the regression and it can help with tuning for better processing 
